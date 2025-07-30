@@ -1,14 +1,6 @@
 # DRL-continuous-control
 Continous control concept in deep reinforcement learning.
 
-Agent taking random actions  
-![agent performance visualisation](reacher_random.gif)  
-
-
-Trained agent  
-![agent performance visualisation](reacher_actor.gif)
-
-
 ### Introduction  
 
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of an agent is to maintain its position at the target location for as many time steps as possible.
