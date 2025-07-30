@@ -14,7 +14,7 @@ The observation space consists of 33 variables corresponding to position, rotati
  * This yields an average score for each episode (where the average is over all 20 agents).
 
 
-### Dependencies (OS: Ubuntu 18.04)  
+### Dependencies
 
 Install the dependencies using the requirementsGPU.txt file to use PyTorch with GPU support.
 
